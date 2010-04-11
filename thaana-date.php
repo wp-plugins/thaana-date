@@ -1,4 +1,4 @@
-﻿<?php
+<?php
 /*
 Plugin Name: Thaana Date
 Plugin URI: http://www.fayax.net/thaana-date
