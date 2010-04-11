@@ -3,7 +3,7 @@
 Plugin Name: Thaana Date
 Plugin URI: http://www.fayax.net/thaana-date
 Description: Converts english months and days to Thaana format.
-Version: 1.0
+Version: 1.1
 Author: Fayax
 Author URI: http://www.fayax.net
 */
